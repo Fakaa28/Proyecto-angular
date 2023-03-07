@@ -1,0 +1,13 @@
+.container {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: chartreuse;
+    padding:30px
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
