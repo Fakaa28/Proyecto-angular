@@ -14,6 +14,6 @@ ngOnInit(): void {
 
 }
 toggleAddTask(){
-  console.log("toggleAddTask!");
+  console.log("Tarea Añadida!");
 }
 }
