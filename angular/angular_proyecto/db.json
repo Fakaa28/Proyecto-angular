@@ -1,19 +1,34 @@
 {
-  "posts": [
+  "tasks": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "text": "Finalizacion modulo 3, incorporacion App de Angular",
+      "day": "Marzo 11",
+      "reminder": true
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "text": "Seguir estudiando en el colegio",
+      "day": "Marzo 13",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Terminar curso de programacion",
+      "day": "Mayo 10",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Empezar a trabajar",
+      "day": "2024",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Subir a platino en el lol",
+      "day": "Noviembre, 2023",
+      "reminder": true
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
